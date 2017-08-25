@@ -1,0 +1,1 @@
+A browser makes an HTTP request to the website `mysite.com`, which returns its `index.html` page. It has a linked JavaScript file, `app.js`. On load, the script makes an AJAX request to `mysite.com/users/1`, which retrieves a user from a Postgres database and sends it back to the browser as JSON.
