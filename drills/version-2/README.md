@@ -10,3 +10,4 @@ A browser makes an HTTPS request to the website `mysite.com`, which returns its 
 
 * The IP address of `mysite.com` is `172.217.0.78`
 * The IP address of the DNS server is `8.8.8.8`
+* The IP address of MaxCDN is `122.17.20.48`
